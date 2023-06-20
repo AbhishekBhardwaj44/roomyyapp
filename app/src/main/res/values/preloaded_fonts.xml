@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/actor</item>
+        <item>@font/alegreya_sc</item>
+        <item>@font/almendra_display</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/basic</item>
+        <item>@font/chewy</item>
+        <item>@font/creepster</item>
+        <item>@font/manropeextralight</item>
+        <item>@font/original_surfer</item>
+    </array>
+</resources>

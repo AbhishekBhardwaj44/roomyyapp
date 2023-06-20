@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:enableOnBackInvokedCallback="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="roomyy"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+        tools:targetApi="tiramisu">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+
+        <activity
+            android:name=".adinters"
+            android:exported="false" />
+        <activity
+            android:name=".editprofileactivity"
+            android:exported="false" />
+        <activity
+            android:name=".flatadd"
+            android:exported="false" />
+        <activity
+            android:name=".pgadd"
+            android:exported="false" />
+        <activity
+            android:name=".rentflats"
+            android:exported="false" />
+        <activity
+            android:name=".UploadpgActivity"
+            android:exported="false" />
+        <activity
+            android:name=".rentpg"
+            android:exported="false" />
+        <activity
+            android:name=".roomadd"
+            android:exported="false" />
+        <activity
+            android:name=".RoomDescriptionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UploadRoomsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".rentrooms"
+            android:exported="false" />
+        <activity
+            android:name=".Navdraw2"
+            android:exported="false" />
+        <activity
+            android:name=".frontpage"
+            android:exported="false" />
+        <activity
+            android:name=".girlshome"
+            android:exported="false" />
+        <activity
+            android:name=".boyshome"
+            android:exported="false" />
+        <activity
+            android:name=".Categories"
+            android:exported="false" />
+        <activity
+            android:name=".NavDraw"
+            android:exported="false" />
+        <activity
+            android:name=".home"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:clearTaskOnLaunch="true"
+            android:exported="true"
+            android:launchMode="singleInstance"
+            android:noHistory="true"
+            android:theme="@style/Theme.PGFinderSplash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Captcha"
+            android:exported="false" />
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:clearTaskOnLaunch="true"
+            android:exported="false"
+            android:parentActivityName=".Login" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:noHistory="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

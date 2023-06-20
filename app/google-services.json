@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020802640548",
+    "project_id": "pg-finder-ec34e",
+    "storage_bucket": "pg-finder-ec34e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020802640548:android:1e82edae313edb3384d431",
+        "android_client_info": {
+          "package_name": "com.example.pgfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020802640548-q56ufeivs5p32a5liqpcfa12a5c5sjko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzVJQ1QBMfHVOYr9TieFBPwRKCBmXrK7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020802640548-q56ufeivs5p32a5liqpcfa12a5c5sjko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

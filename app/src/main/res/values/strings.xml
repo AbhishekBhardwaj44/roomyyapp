@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">PG Finder</string>
+    <string name="app_id">ca-app-pub-8919938521070477~5361073392</string>
+    <string name="inter_ad_unit">ca-app-pub-8919938521070477/1210075391</string>
+    <string name="inadunit">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="Login">login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="click_to_register">click_to_register</string>
+    <string name="register">register</string>
+    <string name="REGISTER">REGISTER</string>
+    <string name="click_to_login">click_to_login</string>
+    <string name="hello_world">hello_world</string>
+    <string name="logout">logout</string>
+    <string name="click_to_registerr">Click to Register</string>
+    <string name="click_to_loginn">Click to Login</string>
+    <string name="reg">Register</string>
+    <string name="registerrr">Register</string>
+    <string name="loginnn">Login</string>
+    <string name="emaill">Email</string>
+    <string name="this_is_the_image">This is the image</string>
+    <string name="loginimage">loginimage</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="loginn">Login</string>
+    <string name="forgot_password22">Forgot Password?</string>
+
+    <string name="password_at_least_6_alphanumeric">Password(At least 6 alphanumeric)</string>
+    <string name="password_at_least_6_characters">Password(At least 6 characters)</string>
+    <string name="ddd">Password</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="todocaptcha">TODO</string>
+    <string name="iam_not_a_robot">Iam not a robot</string>
+    <string name="pg_finder">PG Finder</string>
+    <string name="find_your_new_room">Find Your New Room</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="pg_finderhead">PG Finder</string>
+    <string name="subheading">Find your room</string>
+    <string name="houseimage">houseimage</string>
+    <string name="roomyyy">roomyy</string>
+    <string name="your_comfort_our_priority">Your \'Comfort\',Our \'Priority\'</string>
+    <string name="dream">Find Your Dream Stay</string>
+    <string name="head">head</string>
+    <string name="rooms">Rooms</string>
+    <string name="iamgee">iamgee</string>
+    <string name="pg">PG</string>
+    <string name="flatimg">flatimg</string>
+    <string name="flats">FLATS</string>
+    <string name="about_us">About Us</string>
+    <string name="roomyy">roomyy</string>
+    <string name="home">Home</string>
+    <string name="find_your_dream_stay">Find Your Dream Stay</string>
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+    <string name="authentication">Authentication</string>
+    <string name="logoutnav">Logout</string>
+    <string name="search">Search</string>
+    <string name="home_bot">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_us_frag">About Us</string>
+    <string name="username">username</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="hello">Hello</string>
+    <string name="usernamee">Username</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="full_name">Full Name</string>
+    <string name="root_fragment">ROOT_FRAGMENT_TAG</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="for_girls">For Girls</string>
+    <string name="categories">Categories</string>
+</resources>
